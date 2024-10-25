@@ -6,3 +6,8 @@ Robotics
 AI (Artificial Inteligence)
 
 Go Team and Keep Fighting!
+
+# Team-MODUS_G Logo
+This is the team logo for the Team-MODUS_G
+
+![Image Logo](ImageLogo/c0d5d89b-d391-4f1e-abde-2da4e9ad8127.jpg)
